@@ -14,8 +14,8 @@ Python, Pandas, Matplotlib, Pytest, GitHub Actions, Docker
 - Dockerized application
 
 ## How to Run
-python src/analysis.py
-python src/analysis.py plot
+python src/analysis.py<br>
+python src/analysis.py plot<br>
 pytest
 
 ## CI/CD
